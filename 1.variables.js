@@ -2,7 +2,7 @@ const name = "Sizwe Chris Khomo";
 let age = 26;
 let isStudent = true;
 
-console.log(`Name: ${name}` + `Age: ${age}` + `Student: ${isStudent}`);
+console.log(`Name: ${name}.`, `Age: ${age}.`, `Student: ${isStudent}.`);
 
 
 let favoriteColour = "Black";
@@ -23,5 +23,3 @@ console.log(`${num1} + ${num2} = ${sum}`);
 console.log(`${num1} - ${num2} = ${difference}`);
 console.log(`${num1} x ${num2} = ${product}`);
 console.log(`${num1} / ${num2} = ${quotient}`);
-
-
